@@ -34,4 +34,3 @@ Build a program that generates a random number and challenges the user to guess 
 ## Screenshots
 (![Screenshot 2024-09-19 150303](https://github.com/user-attachments/assets/682599fc-ac06-4004-a539-0f137e5fbc02)
 )
-)
